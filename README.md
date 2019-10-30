@@ -1,12 +1,17 @@
 # image conversion grayscale.
-in folder, all image auto convert to grayscale.
+in folder, all image(png, jpg, gif, bmp, pcx) auto convert to grayscale.
 
 # license gpl
 
-1. make new folder. 
-2. insert image file and neukkim.exe or neukkim.py.
-3. run neukkim.exe or neukkim.py.
-4. program will make new folder and new image insert that folder.
+# os windows
+
+
+1-1. make new folder. 
+1-2. insert image file and neukkim.exe or neukkim.py.
+1-3. run neukkim.exe or neukkim.py.
+1-4. program will make new folder and new image insert that folder.
+
+
 
 if neukkim.exe is not work, use neukkim.py.
 
@@ -17,15 +22,22 @@ chobocomputer@gmail.com
 
 
 
+
 # 이미지를 회색조로 변환하는 프로그램입니다.
-폴더에 있는 모든 이미지를 자동으로 회색조로 변환합니다.
+폴더에 있는 모든 이미지를(png, jpg, gif, bmp, pcx) 자동으로 회색조로 변환합니다.
 
 # 라이센스 gpl
 
-1. 새 폴더를 만듭니다.
-2. 폴더에 이미지 파일과 neukkim.exe 또는 neukkim.py 파일을 넣습니다.
-3. neukkim.exe 또는 neukkim.py 파일을 실행합니다.
-4. 프로그램은 새 폴더를 생성하고, 그 폴더에 새 이미지를 넣습니다.
+# os 윈도우
+
+
+
+2-1. 새 폴더를 만듭니다.
+2-2. 폴더에 이미지 파일과 neukkim.exe 또는 neukkim.py 파일을 넣습니다.
+2-3. neukkim.exe 또는 neukkim.py 파일을 실행합니다.
+2-4. 프로그램은 새 폴더를 생성하고, 그 폴더에 새 이미지를 넣습니다.
+
+
 
 만약 neukkim.exe이 실행 되지 않으면, neukkim.py을 실행합니다.
 
