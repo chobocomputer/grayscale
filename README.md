@@ -6,21 +6,19 @@ in folder, all image(png, jpg, gif, bmp, pcx) auto convert to grayscale.
 # os windows
 
 
-1-1. make new folder. 
+1 make new folder. 
 
-1-2. insert image file and neukkim.exe or neukkim.py.
+2 insert image file and neukkim.exe or neukkim.py.
 
-1-3. run neukkim.exe or neukkim.py.
+3 run neukkim.exe or neukkim.py.
 
-1-4. program will make new folder and new image insert that folder.
+4 program will make new folder and new image insert that folder.
 
 
 
 if neukkim.exe is not work, use neukkim.py.
 
 this program use python, pillow, pyinstaller.
-
-chobocomputer@gmail.com
 
 
 
@@ -35,13 +33,13 @@ chobocomputer@gmail.com
 
 
 
-2-1. 새 폴더를 만듭니다.
+1 새 폴더를 만듭니다.
 
-2-2. 폴더에 이미지 파일과 neukkim.exe 또는 neukkim.py 파일을 넣습니다.
+2 폴더에 이미지 파일과 neukkim.exe 또는 neukkim.py 파일을 넣습니다.
 
-2-3. neukkim.exe 또는 neukkim.py 파일을 실행합니다.
+3 neukkim.exe 또는 neukkim.py 파일을 실행합니다.
 
-2-4. 프로그램은 새 폴더를 생성하고, 그 폴더에 새 이미지를 넣습니다.
+4 프로그램은 새 폴더를 생성하고, 그 폴더에 새 이미지를 넣습니다.
 
 
 
@@ -49,4 +47,11 @@ chobocomputer@gmail.com
 
 이 프로그램은 파이썬과, pillow, pyinstaller을 사용했습니다.
 
+
+
 chobocomputer@gmail.com
+
+![](/image/1-1.png)
+![](/image/1-2.png)
+![](/image/1-3.png)
+![](/image/1-4.png)
