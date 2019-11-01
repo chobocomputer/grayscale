@@ -3,7 +3,7 @@ in folder, all image(png, jpg, gif, bmp, pcx) auto convert to grayscale.
 
 # license gpl
 
-# os windows
+# os windows10 64bit
 
 
 1 make new folder. 
@@ -29,7 +29,7 @@ this program use python, pillow, pyinstaller.
 
 # 라이센스 gpl
 
-# os 윈도우
+# os 윈도우10 64비트
 
 
 
@@ -57,3 +57,7 @@ chobocomputer@gmail.com
 ![](/image/2-1.png)
 ![](/image/2-2.png)
 ![](/image/3.png)
+
+
+
+https://youtu.be/o0cpnB3vMIA
