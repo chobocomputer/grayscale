@@ -49,7 +49,13 @@ this program use python, pillow, pyinstaller.
 
 
 
+
+
 chobocomputer@gmail.com
+
+
+
+https://youtu.be/o0cpnB3vMIA
 
 
 
@@ -60,4 +66,4 @@ chobocomputer@gmail.com
 
 
 
-https://youtu.be/o0cpnB3vMIA
+
